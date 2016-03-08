@@ -1,6 +1,6 @@
 {
   "name": "cause-ebay-search-feed",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "checks ebay search results feed for new items",
   "main": "index.js",
   "license": "CC-BY-NC-SA-4.0",
