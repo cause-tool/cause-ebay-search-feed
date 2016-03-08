@@ -1,0 +1,31 @@
+{
+  "name": "cause-ebay-search-feed",
+  "version": "0.0.0",
+  "description": "checks ebay search results feed for new items",
+  "main": "index.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "freder.code@gmail.com",
+  "dependencies": {
+    "cause-feed": "*",
+    "chalk": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freder/cause-ebay-search-feed.git"
+  },
+  "keywords": [
+    "cause",
+    "cause-block",
+    "feed",
+    "ebay",
+    "search"
+  ],
+  "bugs": {
+    "url": "https://github.com/freder/cause-ebay-search-feed/issues"
+  },
+  "homepage": "https://github.com/freder/cause-ebay-search-feed"
+}
